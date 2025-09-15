@@ -1,3 +1,6 @@
 create a new tekst file named my_answers.txt, and save it into the folder version-control-exersises
 
 vo
+
+-> dank amice ik  hoop dat je lekker stikt in je Rstudio files. 
+*kusjes*
